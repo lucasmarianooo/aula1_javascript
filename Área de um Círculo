@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Calculadora JavaScript</h1>
+<h2>Calcular a área de um círculo com raio 7</h2>
+
+<p id="demo"></p>
+
+<script>
+let x = 3.14;
+let y = 7;
+let z = x * y;
+document.getElementById("demo").innerHTML = z;
+let w = z * 2;
+document.getElementById("demo").innerHTML = w;
+</script>
+
+</body>
+</html>
