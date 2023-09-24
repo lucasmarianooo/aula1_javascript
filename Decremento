@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Calculadora JavaScript</h1>
+<h2>Operador de decremento para diminuir o valor 1 de 100</h2>
+
+<p id="demo"></p>
+
+<script>
+let x = 100;
+x--;
+let z = x;
+document.getElementById("demo").innerHTML = z;
+</script>
+
+</body>
+</html>
