@@ -3,7 +3,7 @@
 <body>
 
 <h1>Calculadora JavaScript</h1>
-<h2>The - Operator</h2>
+<h2>Subtração básica entre 30 e 10</h2>
 
 <p id="demo"></p>
 
