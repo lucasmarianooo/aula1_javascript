@@ -3,7 +3,7 @@
 <body>
 
 <h1>Calculadora JavaScript</h1>
-<h2>The * Operator</h2>
+<h2>O dobro de 15</h2>
 
 <p id="demo"></p>
 
