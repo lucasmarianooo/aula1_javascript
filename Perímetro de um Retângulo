@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Calculadora JavaScript</h2>
+<p>Calcular o perímetro de um retângulo com comprimento 10 e largura 
+5</p>
+
+<p id="demo"></p>
+
+<script>
+let x = 10 + 10 + 5 + 5;
+document.getElementById("demo").innerHTML = x;
+</script>
+
+</body>
+</html>
