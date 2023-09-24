@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Calculadora JavaScript</h1>
+<h2>25% de 80</h2>
+
+<p id="demo"></p>
+
+<script>
+let x = 80;
+let y = 25;
+let z = x * y;
+let w = z / 100
+document.getElementById("demo").innerHTML = w;
+</script>
+
+</body>
+</html>
