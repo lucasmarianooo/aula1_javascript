@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Calculadora JavaScript</h1>
+<h2>Incremente o valor 50 duas vezes</h2>
+
+<p id="demo"></p>
+
+</script>
+<script>
+let x = 50;
+x++;
+let z = x;
+document.getElementById("demo").innerHTML = z;
+let w = z * 2;
+document.getElementById("demo").innerHTML = w;
+</script>
+
+</body>
+</html>
