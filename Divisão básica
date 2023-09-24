@@ -3,7 +3,7 @@
 <body>
 
 <h1>Calculadora JavaScript</h1>
-<h2>The / Operator</h2>
+<h2>Divisão básica entre 100 e 5</h2>
 
 <p id="demo"></p>
 
